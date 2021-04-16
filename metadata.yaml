@@ -1,11 +1,16 @@
 _repo: Conseils-a-un-Jeune-Homme-pauvre-qui-vient-faire-de-la-litterature-a-Paris_65052
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65052-h/images/cover.jpg
 creator:
   author:
     agent_name: Magre, Maurice
     gutenberg_agent_id: '53160'
     url: http://www.gutenberg.org/2009/agents/53160
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65052#Conseils-a-un-Jeune-Homme-pauvre-qui-vient-faire-de-la-litterature-a-Paris
 gutenberg_issued: '2021-04-10'
 gutenberg_type: Text
 identifiers:
